@@ -1,0 +1,8 @@
+{
+  "name": "Indiegram",
+  "previewImage": "https://github.com/mmintel/indiegram/blob/master/preview.jpg?raw=true",
+  "templateId": "22000",
+  "deploymentType": "netlify",
+  "netlifyBuildCommand": "gatsby build",
+  "netlifyBuildDirectory": "public"
+}
